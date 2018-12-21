@@ -1,6 +1,6 @@
 # cors-preflight
-Middleware for adding CORS headers to all incoming requests.
-It also adds *Access-Control-Allow-Methods* header to the OPTIONS requests with all the routes-registered methods.
+Lumen/Laravel package that creates a middleware for adding CORS headers to all incoming requests.
+It also adds *Access-Control-Allow-Methods* header to the OPTIONS requests with all the routes-registered methods. This is useful for [preflight](https://developer.mozilla.org/en-US/docs/Glossary/Preflight_request) requests.
 
 ## Example:
 With this routes:
