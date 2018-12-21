@@ -1,0 +1,15 @@
+{
+    "name": "domoticalabs/cors-preflight",
+    "description": "Cors/Preflight request middleware",
+    "authors": [
+        {
+            "name": "Davide Ferrero",
+            "email": "d.ferrero@domoticalabs.com"
+        }
+    ],
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0.0"
+    }
+}
