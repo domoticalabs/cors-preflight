@@ -1,6 +1,6 @@
 {
     "name": "domoticalabs/cors-preflight",
-    "description": "Cors/Preflight request middleware",
+    "description": "Cors/Preflight request middleware for Lumen/Laravel",
     "authors": [
         {
             "name": "Davide Ferrero",
